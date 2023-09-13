@@ -1,0 +1,25 @@
+body{
+  background-color:#E8F9FD;
+}
+hr{
+  border-style: dotted none none ;
+  width:5%;
+  border-width: 5px;
+  border-color: grey;
+  }
+.h1 {
+  color: #66BFBF;
+}
+.h3 {
+  color: #66BFBF;
+}
+.heading{
+  color: #25316D;
+  text-align: center;
+  font-family:"Lucida Console","Courier New",monospace;
+}
+.table,.tr{
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-size: 25px
+}
